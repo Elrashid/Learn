@@ -18,7 +18,7 @@
  
 ## visual studio
 * T4
-	* [Code Generation And Manipulation Using T4 Templates And Visual Studio Automation By Sample Introduction](Chttps://mhusseini.wordpress.com/2012/05/15/95/)
+	* [Code Generation And Manipulation Using T4 Templates And Visual Studio Automation By Sample Introduction](https://mhusseini.wordpress.com/2012/05/15/95/)
 	* [walking-the-visual-studio-code-model-with-t4-template](http://t4-editor.tangible-engineering.com/blog/walking-the-visual-studio-code-model-with-t4-template.html)
 	* [declarative-dependency-property-definition-with-t4-dte](http://blog.scottlogic.com/2009/08/18/declarative-dependency-property-definition-with-t4-dte.html)
 	* [getting-started-with-t4-templates](http://putridparrot.com/blog/getting-started-with-t4-templates/)
