@@ -1,4 +1,4 @@
-[IdentityServer3 GettingStarted](https://identityserver.github.io/Documentation/docsv2/overview/mvcGettingStarted.html)
+[IdentityServer3 Getting Started](https://identityserver.github.io/Documentation/docsv2/overview/mvcGettingStarted.html)
 
 [IdentityServer3 Schema Changes and Migrations](https://identityserver.github.io/Documentation/docsv2/ef/migrations.html)
 
