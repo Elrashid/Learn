@@ -8,6 +8,9 @@ Install VLC
 
 Install JDK
 
+--https://stackoverflow.com/questions/1906445/what-is-the-difference-between-jdk-and-jre
+--http://www.oracle.com/technetwork/java/javase/downloads/index.html
+--https://developer.android.com/ndk/downloads/index.html
 Instal NDK
 
 Install Android SDK
